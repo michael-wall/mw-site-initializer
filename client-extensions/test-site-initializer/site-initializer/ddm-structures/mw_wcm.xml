@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+	<structure>
+		<name>mw_wcm</name>
+		<description></description>
+		<definition>
+			<![CDATA[
+				{"definitionSchemaVersion":"2.0","availableLanguageIds":["en_US"],"successPage":{"body":{},"title":{},"enabled":false},"defaultLanguageId":"en_US","fields":[{"labelAtStructureLevel":true,"predefinedValue":{"en_US":""},"tooltip":{"en_US":""},"requireConfirmation":false,"type":"text","showLabel":true,"required":false,"displayStyle":"singleline","requiredErrorMessage":{"en_US":""},"objectFieldName":"","repeatable":false,"nativeField":false,"confirmationLabel":{"en_US":""},"fieldReference":"field_aaaaa","tip":{"en_US":""},"placeholder":{"en_US":""},"htmlAutocompleteAttribute":"","direction":["vertical"],"confirmationErrorMessage":{"en_US":""},"hideField":false,"dataType":"string","readOnly":false,"label":{"en_US":"Text"},"fieldNamespace":"","visibilityExpression":"","indexType":"keyword","name":"Text25972671","localizable":true},{"labelAtStructureLevel":true,"predefinedValue":{"en_US":""},"tooltip":{"en_US":""},"requireConfirmation":false,"type":"text","showLabel":true,"required":false,"displayStyle":"singleline","requiredErrorMessage":{"en_US":""},"objectFieldName":"","repeatable":false,"nativeField":false,"confirmationLabel":{"en_US":""},"fieldReference":"field_bbbbb","tip":{"en_US":""},"placeholder":{"en_US":""},"htmlAutocompleteAttribute":"","direction":["vertical"],"confirmationErrorMessage":{"en_US":""},"hideField":false,"dataType":"string","readOnly":false,"label":{"en_US":"Text"},"fieldNamespace":"","visibilityExpression":"","indexType":"keyword","name":"Text81647289","localizable":true},{"labelAtStructureLevel":true,"predefinedValue":{"en_US":""},"tooltip":{"en_US":""},"requireConfirmation":false,"type":"text","showLabel":true,"required":false,"displayStyle":"singleline","requiredErrorMessage":{"en_US":""},"objectFieldName":"","repeatable":false,"nativeField":false,"confirmationLabel":{"en_US":""},"fieldReference":"field_ccccc","tip":{"en_US":""},"placeholder":{"en_US":""},"htmlAutocompleteAttribute":"","direction":["vertical"],"confirmationErrorMessage":{"en_US":""},"hideField":false,"dataType":"string","readOnly":false,"label":{"en_US":"Text"},"fieldNamespace":"","visibilityExpression":"","indexType":"keyword","name":"Text71886655","localizable":true}]}
+			]]>
+		</definition>
+	</structure>
+</root>
