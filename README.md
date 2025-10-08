@@ -1,7 +1,8 @@
 ## Introduction ##
 - This repository contains a sample Site Initializer Client Extension.
 - The Site Initializer will create a new Site if the Site referenced in client-extension.yaml doesn't already exist.
-- It creates (or updates) the following design elements within the Site:
+  - If the Site exists then it will not attempt to create a new Site.
+- It uses UPSERTS (i.e. it creates or updates) for the following design elements within the Site:
   - Web Content Structure: site-initializer\ddm-structures\mw_wcm.xml
   - Web Content Template: site-initializer\ddm-templates\mw_wcm
   - Search Results Widget Template: site-initializer\ddm-templates\custom-search-results
