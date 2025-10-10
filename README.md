@@ -12,7 +12,11 @@
 - When it runs, the Site Initializer will do the following:
   - Create a new Site IF the target Site doesn't already exist. (If the target Site already exists then it skips this step.)
   - Use 'UPSERT' operations (i.e. create or update as needed) for the design elements above.
- 
+
+## Site Initializer and Local Live Staging ##
+- To use with Local Live Staging it is necessary to point the Site Initializer to the Global Site.
+- The Local Live Site and the Local Live Staging Site share Site Name and Site ERC, so pointing the Site Initializer directly at the Local Live enabled Site will create the artifacts directly in 'Live' only, and not in 'Staging'.
+  
 ## Setup ##
 - client-extension.yaml
   - Update the following values to match an existing site (or leave as is to create a new Site):
