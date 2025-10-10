@@ -15,7 +15,7 @@
 
 ## Site Initializer and Local Live Staging ##
 - To use with Local Live Staging it is necessary to point the Site Initializer to the Global Site.
-- The Local Live Site and the Local Live Staging Site share Site Name and Site ERC, so pointing the Site Initializer directly at the Local Live enabled Site will create the artifacts directly in 'Live' only, and not in 'Staging'.
+- The Local Live Site and the Local Live Staging Site share the same Site Name and Site ERC, so using these will create the artifacts directly in 'Live' only, and not in 'Staging'.
   
 ## Setup ##
 - client-extension.yaml
